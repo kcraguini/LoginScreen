@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">activitiyViews</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="loginButton">Login</string>
+    <string name="johnDoe">johnDoe123@gmail.com</string>
+</resources>
